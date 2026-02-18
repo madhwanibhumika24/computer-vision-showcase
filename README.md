@@ -1,2 +1,2 @@
-# cv-mini-projects
+# computer-vision-showcase
 Collection of Computer Vision experiments and mini projects for MCA.
